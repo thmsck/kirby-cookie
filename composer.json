@@ -11,5 +11,10 @@
   "license": "MIT",
   "keywords": [
     "kirby3-plugin"
-  ]
+  ],
+  "autoload": {
+    "files": [
+      "src/config.php"
+    ]
+  }
 }
