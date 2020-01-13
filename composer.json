@@ -8,7 +8,7 @@
       "homepage": "https://www.kuzo-media.de"
     }
   ],
-  "license": "GNU v3",
+  "license": "MIT",
   "keywords": [
     "kirby3-plugin"
   ]
