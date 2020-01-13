@@ -6,8 +6,8 @@
 Kirby::Plugin('thmsck/cookie', [
     'translations' => [
         'en' => [
-            'thmsck.cookie.text'       => 'This website uses cookies to ensure you get the best experience on our website.',
-            'thmsck.cookie.linkText'   => 'More info',
+            'thmsck.cookie.text'       => 'This website uses cookies, which are necessary for the technical operation of the website and are always set. Other cookies, which increase the comfort when using this website, are used for direct advertising or are intended to facilitate interaction with other websites and social networks, are only set with your consent.',
+            'thmsck.cookie.linkText'   => 'More informations',
             'thmsck.cookie.buttonText' => 'Got It!',
         ],
         'de' => [
